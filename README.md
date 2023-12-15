@@ -19,7 +19,7 @@ ___text___
 
 ```
 class Car{
-    public function __construct()
+    public function get()
     {
         return "Hello world";
     }
